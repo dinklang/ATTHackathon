@@ -62,6 +62,8 @@ To install and update your package manager of choice run one of these:
   npm install --global yarn
   ```
 
+* TailwindCSS - See https://tailwindcss.com/docs/installation
+
 ### Installation
 
 1. Clone the repo
@@ -116,9 +118,9 @@ Distributed under the ... License. See `LICENSE.txt` for more information.
 Sandro Dinklang - sdinklang@gmail.com
 <!-- - [@twitter_handle](https://twitter.com/twitter_handle) - sdinklang@gmail.com -->
 
-Sonina Mut - jocyaya@gmail.com
+Sonina Mut - smut3@uic.edu
 
-Joenna Yaya - smut3@uic.edu
+Joenna Yaya - jocyaya@gmail.com
 
 Project Link: [https://github.com/dinklang/](https://github.com/dinklang/ATTHackathon.git)
 
