@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <a href="https://github.com/github_username/repo_name">
+    <a href="https://github.com/dinklang/ATTHackathon">
         <img src="public/att.svg" alt="Logo" width="80" height="80">
     </a>
 <h3 align="center">Unnamed Project</h3>
@@ -17,7 +17,7 @@
     Our project for the AT&T EmpowHer Hackathon 
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/dinklang/ATTHackathon">View Demo</a>
   </p>
 </div>
 
@@ -34,8 +34,6 @@ As more network traffic moves to fiber and 5G, AT&T expects to drive significant
 
 Create an engaging digital experience for consumers that will help AT&T increase its 5G and fiber footprint.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### Built With
 
@@ -43,32 +41,32 @@ Create an engaging digital experience for consumers that will help AT&T increase
 * [![React][React.js]][React-url]
 * [![Tailwind][TailwindCSS]][Tailwind-url]
 
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Before you start using your favorite package manager, you'll first need to install it on your system.
+A package manager will be needed for this project. Common choices include NPM or Yarn.
 
 ### Prerequisites
 
-We recommend creating a Next.js app running one of the following commands using your package manager of choice:
+To install and update your package manager of choice run one of these:
 
 * npm
   ```sh
-  npx create-next-app@latest
+  npm install -g npm
   ```
 
 * yarn
   ```sh
-  yarn create next-app
+  npm install --global yarn
   ```
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/dinklang/ATTHackathon.git
    ```
 2. Install packages
    ```sh
@@ -92,7 +90,7 @@ We recommend creating a Next.js app running one of the following commands using 
 - [ ] Deployment
 - [ ] Submission
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -100,7 +98,7 @@ We recommend creating a Next.js app running one of the following commands using 
 If you have a suggestion that would make this better, please contact us directly.
 Don't forget to give the project a star!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 <!-- LICENSE -->
@@ -108,33 +106,36 @@ Don't forget to give the project a star!
 
 Distributed under the ... License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
 <!-- CONTACT -->
 ## Team Members
 
-Sandro Dinklang - [@twitter_handle](https://twitter.com/twitter_handle) - sdinklang@gmail.com
+Sandro Dinklang - sdinklang@gmail.com
+<!-- - [@twitter_handle](https://twitter.com/twitter_handle) - sdinklang@gmail.com -->
 
-Project Link: [https://github.com/dinklang/](https://github.com/dinklang/RenderingPatternse)
+Sonina Mut - jocyaya@gmail.com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Joenna Yaya - smut3@uic.edu
 
+Project Link: [https://github.com/dinklang/](https://github.com/dinklang/ATTHackathon.git)
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* AT&T
+* [AT&T Fiber](https://about.att.com/pages/internet-fiber.html)
+* [AT&T 5G](https://about.att.com/pages/5G)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+[contributors-url]: https://github.com/dinklang/ATTHackathon/graphs/contributors
 [stars-shield]: https://img.shields.io/github/stars/dinklang/RenderingPatterns.svg?style=for-the-badge
-[stars-url]: https://github.com/dinklang/RenderingPatterns/stargazers
+[stars-url]: https://github.com/dinklang/ATTHackathon/stargazers
 [license-shield]: https://img.shields.io/github/license/dinklang/RenderingPatterns.svg?style=for-the-badge
 [license-url]: https://github.com/dinklang/RenderingPatterns/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
