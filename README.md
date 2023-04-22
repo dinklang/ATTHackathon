@@ -132,12 +132,12 @@ Project Link: [https://github.com/dinklang/](https://github.com/dinklang/ATTHack
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/dinklang/ATTHackathon.svg?style=for-the-badge
 [contributors-url]: https://github.com/dinklang/ATTHackathon/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/dinklang/RenderingPatterns.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/dinklang/ATTHackathon.svg?style=for-the-badge
 [stars-url]: https://github.com/dinklang/ATTHackathon/stargazers
-[license-shield]: https://img.shields.io/github/license/dinklang/RenderingPatterns.svg?style=for-the-badge
-[license-url]: https://github.com/dinklang/RenderingPatterns/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/dinklang/ATTHackathon.svg?style=for-the-badge
+[license-url]: https://github.com/dinklang/ATTHackathon/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dinklang/
 [product-screenshot]: images/screenshot.png
