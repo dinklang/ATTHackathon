@@ -2,7 +2,6 @@ import Image from 'next/image'
 import React, { useEffect } from "react";
 import Link from 'next/link'; // NextJS router
 import Head from 'next/head';
-import SideBar from '../components/SideBar';
 
 export default function Art() {
 
@@ -29,7 +28,6 @@ export default function Art() {
 
 	return (
 		<div>
-			<SideBar></SideBar>
 			<div className="ml-64 p-10 grid grid-cols-3 gap-2.5 text-att-blue">
 				{data.map((data) => (
 					<div className="">

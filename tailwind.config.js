@@ -7,6 +7,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        ATT: "ATT",
+      },
       colors: {
         'att-blue': '#009FDB',
         'att-dark': '#0057B8',

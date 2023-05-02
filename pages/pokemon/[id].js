@@ -48,7 +48,8 @@ export default function Details() {
             <div className="grid grid-cols-3 gap-4">
                 <div>
                     <img
-                        src={`https://jherr-pokemon.s3.us-west-1.amazonaws.com/${pokemon.image}`}>
+                        src={`https://jherr-pokemon.s3.us-west-1.amazonaws.com/${pokemon.image}`}
+                        >
                     </img>
                 </div>
                 <div>
